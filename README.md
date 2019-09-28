@@ -1,4 +1,6 @@
 # Smart-Glass
+TONG LEI;SHULIN LIU;JIARONG XIE
+video link:
 <h3>Introduction</h3>
 Write a brief summary of your project
 <h3>Motivation</h3>
