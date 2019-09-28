@@ -1,4 +1,4 @@
-# Smart-Glass
+# Smart Glass
 TONG LEI;SHULIN LIU;JIARONG XIE
 
 <h3>Introduction</h3>
