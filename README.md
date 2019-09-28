@@ -4,8 +4,8 @@ TONG LEI;SHULIN LIU;JIARONG XIE
 <h3>Introduction</h3>
 Write a brief summary of your project
 <h3>Motivation</h3>
-Health authorities commonly recommend eight 8-ounce glasses</n>
-A typical adult naturally <b>loses</b> about 2-3 liters of <b>water</b> a <b>day</b>
+Health authorities commonly recommend eight 8-ounce glasses
+A typical adult naturally loses about 2-3 liters of water a day
 <h3>Goals</h3>
 What are you going to achive by the end of the project specifically?
 <h2>For Progress Report</h2>
