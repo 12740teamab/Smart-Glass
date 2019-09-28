@@ -2,7 +2,7 @@
 TONG LEI;SHULIN LIU;JIARONG XIE
 
 <h3>Introduction</h3>
-<p>Smart glass aim to provide people healthier lifestyle. With a special monitor system, small glass can track the water consumption of owner and calculate the average water consumption in a specific period. If the average water consumption is below the recommended value, smart glass would gently remind you to drink more water. At the same time, smart glass can show the temperature to make sure you drink the water with appropriate temperature. Last but not least, small glass has a special liquid classification system to make sure you are drinking “real” water instead of unhealthy soft drink.<p>
+<p>Smart glass aims to provide people a healthier lifestyle. With a special monitoring system, smart glass can track the water consumption of the user and calculate the average water consumption in a specific period. If the average water consumption is below the recommended value, smart glass will gently remind you to drink more water. At the same time, smart glass can show the water temperature to make sure you drink the water with appropriate temperature. Besides, smart glass has a special liquid classification system to make sure you are drinking “real” water instead of unhealthy soft drink.<p>
   
 <h3>Motivation</h3>
 <p>• Health authorities commonly recommend eight 8-ounce glasses<p>
@@ -15,9 +15,9 @@ TONG LEI;SHULIN LIU;JIARONG XIE
 <p>• Prevents kidney damage</p>
 
 <h3>Goals</h3>
-<p>• Remind people of drinking sufficient water</p>
-<p>• Remind people of drinking healthy</p>
-<p>• Remind people if the water is ready to drink with appropriate</p>
+<p>• Remind people to drink sufficient water</p>
+<p>• Remind people to drink healthy</p>
+<p>• Remind people if the water is ready to drink with appropriate temperature</p>
 
 <h2>For Progress Report</h2>
 <h3>Current Progress</h3>
@@ -44,10 +44,12 @@ TONG LEI;SHULIN LIU;JIARONG XIE
 
 <h2>Methodology</h2>
 <h3>Phenomena of Interest</h3>
-<p>Describe the physical phenomena of interest, e.g. physical principles, static and dynamic behavior, and signal characteristics</p>
+<p>• Measure the weight of the glass to get the amount of liquid in the glass</p>
+<p>• Measure the time to calcultate the hourly water consumption</p>
+<p>• Measure the light intensity at the bottom of the glass to get the types of liquid</p>
+<p>• Measure the temperature of the water to make sure it is comfortable to drink</p>
 
 <h3>Sensors Used</h3>
-<p>Describe the sensors you used, e.g. physical principles, static and dynamic behavior, and signal characteristics</p>
 <p>• Weight Sensor: HX711</p>
 <p>• Light Sensor: LM393</p>
 <p>• Temperature Sensor: DS18B20</p>
