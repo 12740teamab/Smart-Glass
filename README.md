@@ -26,19 +26,19 @@ TONG LEI;SHULIN LIU;JIARONG XIE
 <p>In particular,articulate thing(s) you have learned/solved outside of what was taught in class</p>
 
 <h3>Problems Encountered</h3>
-<p>1. How to connect another sensor to Raspberry Pi? Using the same ADC or another one?</p>
-<p>2. Current experiments show the lighting sensor can differentiate cola and water with same ambient light level. However, ambient light can be a main noise that cannot be ignored in future experiments. How to eliminate the impact of ambient lighting?</p>
-<p>3. The measurement of temperature delays, which cannot indicate the real-time temperature of water in the glass.</p>
+<p>How to connect another sensor to Raspberry Pi? Using the same ADC or another one?</p>
+<p>Current experiments show the lighting sensor can differentiate cola and water with same ambient light level. However, ambient light can be a main noise that cannot be ignored in future experiments. How to eliminate the impact of ambient lighting?</p>
+<p>The measurement of temperature delays, which cannot indicate the real-time temperature of water in the glass.</p>
 
 <h3>Future Plan</h3>
-<p>1. Connect the weight sensor to Raspberry Pi and obtain its measurement</p>
-<p>2. Appropriately configure all sensors in a container</p>
-<p>3. Conduct more experiments to figure out how to differentiate types of several common drinks, such as cola, orange juice, and coffee</p>
-<p>4. Solve the temperature measurement delay problem (by adding a light source and blocking the ambient light)</p>
-<p>5. Figure out the ways to remind people</p>
-<p>6. Complete all codes</p>
-<p>7. Test</p>
-<p>8. Connect all sensors to OpenChirp (if time allows)</p>
+<p>Connect the weight sensor to Raspberry Pi and obtain its measurement</p>
+<p>Appropriately configure all sensors in a container</p>
+<p>Conduct more experiments to figure out how to differentiate types of several common drinks, such as cola, orange juice, and coffee</p>
+<p>Solve the temperature measurement delay problem (by adding a light source and blocking the ambient light)</p>
+<p>Figure out the ways to remind people</p>
+<p>Complete all codes</p>
+<p>Test</p>
+<p>Connect all sensors to OpenChirp (if time allows)</p>
 
 <h2>Methodology</h2>
 <h3>Phenomena of Interest</h3>
