@@ -10,7 +10,7 @@ Why is the problem you are addressing important or interesting?
 What are you going to achive by the end of the project specifically?
 <h2>For Progress Report</h2>
 <h3>Current Progress</h3>
-Summarize whay you have done so far
+Summarize whay you have done so far</>
 <b>Highlights</b>: In particular,articulate thing(s) you have learned/solved outside of what was taught in class
 <h3>Problems Encountered</h3>
 Articulate the problems you have encountered
