@@ -3,6 +3,7 @@ TONG LEI;SHULIN LIU;JIARONG XIE
 
 <h3>Introduction</h3>
 <p>Write a brief summary of your project<p>
+  
 <h3>Motivation</h3>
 <p>Health authorities commonly recommend eight 8-ounce glasses<p>
 <p>A typical adult naturally loses about 2-3 liters of water a day<p>
@@ -23,22 +24,37 @@ TONG LEI;SHULIN LIU;JIARONG XIE
 <p>Summarize whay you have done so far</p>
 <p><b>Highlights:</b></p> 
 <p>In particular,articulate thing(s) you have learned/solved outside of what was taught in class</p>
+
 <h3>Problems Encountered</h3>
-<p>Articulate the problems you have encountered</p>
-<p>This section is of the most importance in the progress report. It not only gives the TA information on what help you may need, and also encourages you to think deeper about your problems.</p>
+<p>1. How to connect another sensor to Raspberry Pi? Using the same ADC or another one?</p>
+<p>2. Current experiments show the lighting sensor can differentiate cola and water with same ambient light level. However, ambient light can be a main noise that cannot be ignored in future experiments. How to eliminate the impact of ambient lighting?</p>
+<p>3. The measurement of temperature delays, which cannot indicate the real-time temperature of water in the glass.</p>
+
 <h3>Future Plan</h3>
-<p>Describe what you plan to do in the next two weeks</p>
+<p>1. Connect the weight sensor to Raspberry Pi and obtain its measurement</p>
+<p>2. Appropriately configure all sensors in a container</p>
+<p>3. Conduct more experiments to figure out how to differentiate types of several common drinks, such as cola, orange juice, and coffee</p>
+<p>4. Solve the temperature measurement delay problem (by adding a light source and blocking the ambient light)</p>
+<p>5. Figure out the ways to remind people</p>
+<p>6. Complete all codes</p>
+<p>7. Test</p>
+<p>8. Connect all sensors to OpenChirp (if time allows)</p>
+
 <h2>Methodology</h2>
 <h3>Phenomena of Interest</h3>
 <p>Describe the physical phenomena of interest, e.g. physical principles, static and dynamic behavior, and signal characteristics</p>
+
 <h3>Sensors Used</h3>
 <p>Describe the sensors you used, e.g. physical principles, static and dynamic behavior, and signal characteristics</p>
 <p>Weight Sensor: HX711</p>
 <p>Light Sensor: LM393</p>
 <p>Temperature Sensor: DS18B20</p>
+
 <h3>Signal Conditioning and Processing</h3>
 <p>Describe the signal conditioning and processing procedures</p>
+
 <h2>Experienments and Results</h2>
 <p>Describe the experiments you did and present the results; Use tables and plots if possible</p>
+
 <h2>Discussion</h2>
 <p>Discuss the insights from the project</p>
