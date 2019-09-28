@@ -2,28 +2,30 @@
 TONG LEI;SHULIN LIU;JIARONG XIE
 
 <h3>Introduction</h3>
-<p>Write a brief summary of your project<p>
+<p>Smart glass aim to provide people healthier lifestyle. With a special monitor system, small glass can track the water consumption of owner and calculate the average water consumption in a specific period. If the average water consumption is below the recommended value, smart glass would gently remind you to drink more water. At the same time, smart glass can show the temperature to make sure you drink the water with appropriate temperature. Last but not least, small glass has a special liquid classification system to make sure you are drinking “real” water instead of unhealthy soft drink.<p>
   
 <h3>Motivation</h3>
-<p>Health authorities commonly recommend eight 8-ounce glasses<p>
-<p>A typical adult naturally loses about 2-3 liters of water a day<p>
+<p>• Health authorities commonly recommend eight 8-ounce glasses<p>
+<p>• A typical adult naturally loses about 2-3 liters of water a day<p>
 <p><b>Benefit of drinking water:</b></p>
-<p>Lubricates the joints</p>
-<p>Forms saliva and mucus</p>
-<p>Regulates body temperature</p>
-<p>Helps maintain blood pressure</p>
-<p>Prevents kidney damage</p>
+<p>• Lubricates the joints</p>
+<p>• Forms saliva and mucus</p>
+<p>• Regulates body temperature</p>
+<p>• Helps maintain blood pressure</p>
+<p>• Prevents kidney damage</p>
 
 <h3>Goals</h3>
-<p>Remind people of drinking sufficient water</p>
-<p>Remind people of drinking healthy</p>
-<p>Remind people if the water is ready to drink with appropriate</p>
+<p>• Remind people of drinking sufficient water</p>
+<p>• Remind people of drinking healthy</p>
+<p>• Remind people if the water is ready to drink with appropriate</p>
 
 <h2>For Progress Report</h2>
 <h3>Current Progress</h3>
-<p>Summarize whay you have done so far</p>
-<p><b>Highlights:</b></p> 
-<p>In particular,articulate thing(s) you have learned/solved outside of what was taught in class</p>
+<p>• Make sure the type of sensors that we need, including a pressure sensor(HX711, ordered through Amazon), a temperature sensor(in box), a light sensor(in box)</p>
+<p>• Make a prototype “smart-glass” with only temperature sensor and light sensor(pressure sensor is on the way)</p> 
+<p>• Connect multiple sensors to Raspberry Pi, and organize the python code to show the output of sensors correctly</p>
+<p>• With test, we make sure that the light sensor can detect the change of light density while changing the liquid above it from coffee into pure water. We also confirm that the temperature can detect the temperature of liquid in glass</p>
+<p>• Implement the design details of “smart-glass”, including the placement of sensors, data that we need to set up a range for different types of liquid, method to prevent the effect of light outside the glass</p>
 
 <h3>Problems Encountered</h3>
 <p>• How to connect another sensor to Raspberry Pi? Using the same ADC or another one?</p>
