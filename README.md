@@ -6,7 +6,7 @@ TONG LEI;SHULIN LIU;JIARONG XIE
 <h3>Motivation</h3>
 Health authorities commonly recommend eight 8-ounce glasses
 A typical adult naturally loses about 2-3 liters of water a day
-<h4>Benefit of drinking water:</h4>
+<p>Benefit of drinking water:</p>
 Lubricates the joints
 Forms saliva and mucus
 Regulates body temperature
