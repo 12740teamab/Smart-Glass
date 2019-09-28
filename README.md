@@ -11,7 +11,7 @@ What are you going to achive by the end of the project specifically?
 <h2>For Progress Report</h2>
 <h3>Current Progress</h3>
 Summarize whay you have done so far
-Highlights: In particular,articulate thing(s) you have learned/solved outside of what was taught in class
+<b>Highlights</b>: In particular,articulate thing(s) you have learned/solved outside of what was taught in class
 <h3>Problems Encountered</h3>
 Articulate the problems you have encountered
 This section is of the most importance in the progress report. It not only gives the TA information on what help you may need, and also encourages you to think deeper about your problems.
