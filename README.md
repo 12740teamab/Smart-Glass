@@ -6,8 +6,18 @@ Write a brief summary of your project
 <h3>Motivation</h3>
 Health authorities commonly recommend eight 8-ounce glasses
 A typical adult naturally loses about 2-3 liters of water a day
+<b>Benefit of drinking water:</b>
+Lubricates the joints
+Forms saliva and mucus
+Regulates body temperature
+Helps maintain blood pressure
+Prevents kidney damage
+
 <h3>Goals</h3>
-What are you going to achive by the end of the project specifically?
+Remind people of drinking sufficient water
+Remind people of drinking healthy
+Remind people if the water is ready to drink with appropriate
+
 <h2>For Progress Report</h2>
 <h3>Current Progress</h3>
 Summarize whay you have done so far
@@ -22,6 +32,9 @@ Describe what you plan to do in the next two weeks
 Describe the physical phenomena of interest, e.g. physical principles, static and dynamic behavior, and signal characteristics
 <h3>Sensors Used</h3>
 Describe the sensors you used, e.g. physical principles, static and dynamic behavior, and signal characteristics
+Weight Sensor: HX711
+Light Sensor: LM393
+Temperature Sensor: DS18B20
 <h3>Signal Conditioning and Processing</h3>
 Describe the signal conditioning and processing procedures
 <h2>Experienments and Results</h2>
