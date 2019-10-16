@@ -63,4 +63,4 @@ TONG LEI; SHULIN LIU; JIARONG XIE
 <h2>Discussion</h2>
 <p>Discuss the insights from the project</p>
 
-<p><a href="http://12740teamab.github.io/Smart-Glass/syllabus.pdf" target="_blank">PDF.</a><p>
+<p><a href="http://12740teamab.github.io/Smart-Glass/syllabus.pdf" target="_blank">Report</a></p>
