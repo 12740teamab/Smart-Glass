@@ -62,3 +62,4 @@ TONG LEI; SHULIN LIU; JIARONG XIE
 
 <h2>Discussion</h2>
 <p>Discuss the insights from the project</p>
+![Matlab_Logo](https://user-images.githubusercontent.com/55921083/66964938-07c15b00-f046-11e9-9d9e-8dc636e39076.png)
