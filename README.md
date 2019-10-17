@@ -1,14 +1,13 @@
 # Smart Cup
 TONG LEI; SHULIN LIU; JIARONG XIE
 <p> </p>
-[Vimeo Video](https://vimeo.com/367119269)
-<p></p>
-[Youtube Video](https://www.youtube.com/watch?v=mJ02-7oR6LU)
+<p><a href="https://vimeo.com/367119269" target="_blank">Vimeo Video</a></p>
+<p> </p>
 <p><a href="https://www.youtube.com/watch?v=mJ02-7oR6LU" target="_blank">Youtube Video</a></p>
 <p> </p>
 <p><a href="http://12740teamab.github.io/Smart-Glass/Progress Report.pdf" target="_blank">Progress Report</a></p>
 <p> </p>
-[OpenChirp](https://)
+<p><a href="http://" target="_blank">OpenChirp</a></p>
 
 <h2>Introduction</h2>
 <p>Smart cup aims to provide people a way to live a healthier life. With a special monitoring system, smart cup can track the water consumption of user and calculate the average water consumption in a specific period. If the average water consumption is below the recommended value, smart glass will gently remind user to drink more water. At the same time, smart cup can show the water temperature to make sure that user drinks the water with appropriate temperature. Besides, smart cup has a special liquid classification system to make sure user is drinking “real” water instead of unhealthy soft drink. Last, smart cup can also detect and show the environment temperature and humidity, which could remind user to drink more frequently if the weather is too dry.<p>
