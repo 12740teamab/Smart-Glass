@@ -1,5 +1,7 @@
 # Smart Cup
-TONG LEI; SHULIN LIU; JIARONG XIE
+<p>Team AB</p>
+<p>Tong Lei; Shulin Liu; Jiarong Xie</p>
+
 <p> </p>
 <p><a href="https://vimeo.com/367119269" target="_blank">Vimeo Video</a></p>
 <p> </p>
