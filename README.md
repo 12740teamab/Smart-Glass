@@ -125,7 +125,7 @@ TONG LEI; SHULIN LIU; JIARONG XIE
 <p align="center">Figure 5: Weight Sensor Calibration</p>
 
 <p align="center">
-  <img width="500" height="300" src="https://user-images.githubusercontent.com/55921083/67035481-b9649880-f0e7-11e9-9903-bdeb81db6b12.png">
+  <img width="500" height="300" src="https://user-images.githubusercontent.com/55921083/67036680-0a758c00-f0ea-11e9-83de-30410c6f3414.png">
 </p>
 <p align="center">Figure 6: Weight Sensor Output Value vs. Actual Weight</p>
 
