@@ -57,7 +57,24 @@ TONG LEI; SHULIN LIU; JIARONG XIE
 <p>   o	LDR module 4 PIN</p>
 <p>   o	Able to detect ambient brightness and light intensity Adjustable sensitivity</p>
 
-<p>• Temperature Sensor: DS18B20</p>
+![14](https://user-images.githubusercontent.com/55921083/66975509-b24c7480-f06c-11e9-934f-d07274db6b38.jpg)
+
+<p>•	Temperature Sensor: DS18B20</p>
+<p>   o	Operating voltage: 3V to 5V</p>
+<p>   o	Temperature Range: -55°C to +125°C</p>
+<p>   o	Accuracy: ±0.5°C</p>
+<p>   o	Output Resolution: 9-bit to 12-bit (programmable)</p>
+<p>   o	Unique 64-bit address enables multiplexing</p>
+<p>   o	Conversion time: 750ms at 12-bit </p>
+<p>   o	Available as To-92, SOP and even as a waterproof sensor</p>
+
+<p>•	Temperature and Humidity Sensor: DHT11</p>
+<p>   o	Measurement Range: 20-90% RH, 0-50°C</p>
+<p>   o	Humidity Accuracy: +/- 5% RH</p>
+<p>   o	Temperature Accuracy: +/- 2°C</p>
+<p>   o	Resolution: 1</p>
+<p>   o	Package: 4 Pin Single Row</p>
+
 
 <h3>Signal Conditioning and Processing</h3>
 <p>Describe the signal conditioning and processing procedures</p>
