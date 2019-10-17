@@ -1,7 +1,7 @@
 # Smart Cup
 TONG LEI; SHULIN LIU; JIARONG XIE
 <p> </p>
-[Video](https://vimeo.com/user102736849/review/367090283/685324f911)
+[Video](https://youtu.be/mJ02-7oR6LU)
 <p> </p>
 <p><a href="http://12740teamab.github.io/Smart-Glass/Final Report.pdf" target="_blank">Final Report</a></p>
 <p> </p>
