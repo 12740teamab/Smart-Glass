@@ -66,7 +66,7 @@ TONG LEI; SHULIN LIU; JIARONG XIE
 <p>   -	Able to detect ambient brightness and light intensity Adjustable sensitivity</p>
 
 <p align="center">
-  <img width="200" height="200" src="">
+  <img width="200" height="200" src="https://user-images.githubusercontent.com/55921083/67034982-bb7a2780-f0e6-11e9-83b4-b97fcce7d407.jpg">
 </p>
 
 <p>•	Temperature Sensor: DS18B20</p>
