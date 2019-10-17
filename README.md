@@ -39,43 +39,43 @@ TONG LEI; SHULIN LIU; JIARONG XIE
 
 <h3>Sensors Used</h3>
 <p>•	Weight Sensor: HX711</p>
-<p>   o	Bracket diameter: 10CM</p>
-<p>   o	Working voltage: 5V or 3.3V</p>
-<p>   o	Test weight: 5KG</p>
-<p>   o	Height: 3.5cm (including column)</p>
-<p>   o	AD module: HX711 (24-bit high-precision A/D conversion chip HX711)</p>
-<p>   o	Operating temperature range: -20 degrees - +85 degrees</p>
-<p>   o	Accuracy after calibration: less than 1g</p>
+<p>   -	Bracket diameter: 10CM</p>
+<p>   -	Working voltage: 5V or 3.3V</p>
+<p>   -	Test weight: 5KG</p>
+<p>   -	Height: 3.5cm (including column)</p>
+<p>   -	AD module: HX711 (24-bit high-precision A/D conversion chip HX711)</p>
+<p>   -	Operating temperature range: -20 degrees - +85 degrees</p>
+<p>   -	Accuracy after calibration: less than 1g</p>
 
 ![51UjB-VAY3L _SL1000_](https://user-images.githubusercontent.com/55921083/66975382-597cdc00-f06c-11e9-916e-19afb1867ab5.jpg)
 
 <p>•	Light Sensor: LM393</p>
-<p>   o	Input Voltage: 3.3V to 5V</p>
-<p>   o	Dimension: 15mm x 33mm x 8mm</p>
-<p>   o	Weight: 4 gm</p>
-<p>   o	Signal output indicator light</p>
-<p>   o	LDR module 4 PIN</p>
-<p>   o	Able to detect ambient brightness and light intensity Adjustable sensitivity</p>
+<p>   -	Input Voltage: 3.3V to 5V</p>
+<p>   -	Dimension: 15mm x 33mm x 8mm</p>
+<p>   -	Weight: 4 gm</p>
+<p>   -	Signal output indicator light</p>
+<p>   -	LDR module 4 PIN</p>
+<p>   -	Able to detect ambient brightness and light intensity Adjustable sensitivity</p>
 
 ![14](https://user-images.githubusercontent.com/55921083/66975509-b24c7480-f06c-11e9-934f-d07274db6b38.jpg)
 
 <p>•	Temperature Sensor: DS18B20</p>
-<p>   o	Operating voltage: 3V to 5V</p>
-<p>   o	Temperature Range: -55°C to +125°C</p>
-<p>   o	Accuracy: ±0.5°C</p>
-<p>   o	Output Resolution: 9-bit to 12-bit (programmable)</p>
-<p>   o	Unique 64-bit address enables multiplexing</p>
-<p>   o	Conversion time: 750ms at 12-bit </p>
-<p>   o	Available as To-92, SOP and even as a waterproof sensor</p>
+<p>   -	Operating voltage: 3V to 5V</p>
+<p>   -	Temperature Range: -55°C to +125°C</p>
+<p>   -	Accuracy: ±0.5°C</p>
+<p>   -	Output Resolution: 9-bit to 12-bit (programmable)</p>
+<p>   -	Unique 64-bit address enables multiplexing</p>
+<p>   -	Conversion time: 750ms at 12-bit </p>
+<p>   -	Available as To-92, SOP and even as a waterproof sensor</p>
 
 ![9](https://user-images.githubusercontent.com/55921083/66975691-43235000-f06d-11e9-9617-8b282db2ef43.jpg)
 
 <p>•	Temperature and Humidity Sensor: DHT11</p>
-<p>   o	Measurement Range: 20-90% RH, 0-50°C</p>
-<p>   o	Humidity Accuracy: +/- 5% RH</p>
-<p>   o	Temperature Accuracy: +/- 2°C</p>
-<p>   o	Resolution: 1</p>
-<p>   o	Package: 4 Pin Single Row</p>
+<p>   -	Measurement Range: 20-90% RH, 0-50°C</p>
+<p>   -	Humidity Accuracy: +/- 5% RH</p>
+<p>   -	Temperature Accuracy: +/- 2°C</p>
+<p>   -	Resolution: 1</p>
+<p>   -	Package: 4 Pin Single Row</p>
 
 ![10](https://user-images.githubusercontent.com/55921083/66975744-76fe7580-f06d-11e9-94b2-c13c0e95a4b5.jpg)
 
