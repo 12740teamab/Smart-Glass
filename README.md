@@ -167,7 +167,7 @@ TONG LEI; SHULIN LIU; JIARONG XIE
 <p>After finishing all parts of this smart cup, we conducted an experiment on it. At the beginning, there was 195 ml water in the cup. Then we drank 135ml water. After that, we drank the rest of the water and poured 300ml unclear soft drink in it. Next, we drank 200 ml soft drink. Then we drank the rest of them couple minutes later. The timeseries results from OpenChirp exactly match our experiment.</p>
 
 <p align="center">
-  <img width="700" height="600" src="">
+  <img width="700" height="600" src="https://user-images.githubusercontent.com/55921083/67035813-617a6180-f0e8-11e9-84e4-9bb654e74d59.png">
 </p>
 <p align="center">Figure 13: Timeseries Results from OpenChirp</p>
 
