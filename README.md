@@ -47,7 +47,7 @@ TONG LEI; SHULIN LIU; JIARONG XIE
 <p>•	Measure the temperature and humidity of environment</p>
 
 <h3>Sensors Used</h3>
-<h4>•	Weight Sensor: HX711</h4>
+<p>•	Weight Sensor: HX711</p>
 <p>   -	Bracket diameter: 10CM</p>
 <p>   -	Working voltage: 5V or 3.3V</p>
 <p>   -	Test weight: 5KG</p>
@@ -60,7 +60,7 @@ TONG LEI; SHULIN LIU; JIARONG XIE
   <img width="200" height="200" src="https://user-images.githubusercontent.com/55921083/67034913-94bbf100-f0e6-11e9-942c-fdeac1015fad.jpg">
 </p>
 
-<h4>•	Light Sensor: LM393</h4>
+<p>•	Light Sensor: LM393</p>
 <p>   -	Measure the light level at the bottom</p>
 <p>   -	Input Voltage: 3.3V to 5V</p>
 <p>   -	Dimensions: 15mm x 33mm x 8mm</p>
@@ -72,7 +72,7 @@ TONG LEI; SHULIN LIU; JIARONG XIE
   <img width="200" height="200" src="https://user-images.githubusercontent.com/55921083/67034982-bb7a2780-f0e6-11e9-83b4-b97fcce7d407.jpg">
 </p>
 
-<h4>•	Temperature Sensor: DS18B20</h4>
+<p>•	Temperature Sensor: DS18B20</p>
 <p>   - Measure the air temperature in the cup as an indicator of the water temperature</p>
 <p>   -	Operating voltage: 3V to 5V</p>
 <p>   -	Temperature Range: -55°C to +125°C</p>
@@ -86,7 +86,7 @@ TONG LEI; SHULIN LIU; JIARONG XIE
   <img width="200" height="200" src="https://user-images.githubusercontent.com/55921083/67035048-d64c9c00-f0e6-11e9-96ee-a6c0c4c096dd.jpg">
 </p>
 
-<h4>•	Temperature and Humidity Sensor: DHT11</h4>
+<p>•	Temperature and Humidity Sensor: DHT11</p>
 <p>   - Measure the air temperature and relative humidity of the ambient environment</p>
 <p>   -	Measurement Range: 20-90% RH, 0-50°C</p>
 <p>   -	Humidity Accuracy: ± 5% RH</p>
