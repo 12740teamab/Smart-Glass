@@ -1,6 +1,6 @@
 # Smart Cup
-<p>Team AB</p>
-<p>Tong Lei; Shulin Liu; Jiarong Xie</p>
+<p>Team ID: Team AB</p>
+<p>Team Member: Tong Lei; Shulin Liu; Jiarong Xie</p>
 
 <p> </p>
 <p><a href="https://vimeo.com/367119269" target="_blank">Vimeo Video</a></p>
