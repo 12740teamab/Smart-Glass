@@ -137,7 +137,7 @@ TONG LEI; SHULIN LIU; JIARONG XIE
 <p align="center">Figure 7: Types of Soft Drink</p>
 
 <p align="center">
-  <img width="300" height="350" src="">
+  <img width="300" height="350" src="https://user-images.githubusercontent.com/55921083/67035574-e87b0a00-f0e7-11e9-9c3f-be4b8b4e7279.png">
 </p>
 <p align="center">Figure 8: Running a Drink Type Test</p>
 
