@@ -44,10 +44,19 @@ TONG LEI; SHULIN LIU; JIARONG XIE
 <p>   o	Test weight: 5KG</p>
 <p>   o	Height: 3.5cm (including column)</p>
 <p>   o	AD module: HX711 (24-bit high-precision A/D conversion chip HX711)</p>
-<p>   o	Operating temperature range: -20 degrees - +85 degrees.</p>
+<p>   o	Operating temperature range: -20 degrees - +85 degrees</p>
 <p>   o	Accuracy after calibration: less than 1g</p>
 
-<p>• Light Sensor: LM393</p>
+![51UjB-VAY3L _SL1000_](https://user-images.githubusercontent.com/55921083/66975382-597cdc00-f06c-11e9-916e-19afb1867ab5.jpg)
+
+<p>•	Light Sensor: LM393</p>
+<p>   o	Input Voltage: 3.3V to 5V</p>
+<p>   o	Dimension: 15mm x 33mm x 8mm</p>
+<p>   o	Weight: 4 gm</p>
+<p>   o	Signal output indicator light</p>
+<p>   o	LDR module 4 PIN</p>
+<p>   o	Able to detect ambient brightness and light intensity Adjustable sensitivity</p>
+
 <p>• Temperature Sensor: DS18B20</p>
 
 <h3>Signal Conditioning and Processing</h3>
