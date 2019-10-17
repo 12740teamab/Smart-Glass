@@ -22,43 +22,31 @@ TONG LEI; SHULIN LIU; JIARONG XIE
 <p>   o	Helps maintain blood pressure</p>
 <p>   o	Prevents kidney damage</p>
 
+<img width="310" alt="WechatIMG62" src="https://user-images.githubusercontent.com/55921083/66975160-9eecd980-f06b-11e9-8691-c6ac8e0c60d3.png">
+
 <h3>Goals</h3>
-<p>• Remind people to drink sufficient water</p>
-<p>• Remind people to drink healthy</p>
-<p>• Remind people if the water is ready to drink with appropriate temperature</p>
-
-<h2>For Progress Report</h2>
-<h3>Current Progress</h3>
-<p>• Make sure the type of sensors that we need, including a pressure sensor(HX711, ordered through Amazon), a temperature sensor(in box), a light sensor(in box)</p>
-<p>• Make a prototype “smart-glass” with only temperature sensor and light sensor(pressure sensor is on the way)</p> 
-<p>• Connect multiple sensors to Raspberry Pi, and organize the python code to show the output of sensors correctly</p>
-<p>• With test, we make sure that the light sensor can detect the change of light density while changing the liquid above it from coffee into pure water. We also confirm that the temperature can detect the temperature of liquid in glass</p>
-<p>• Implement the design details of “smart-glass”, including the placement of sensors, data that we need to set up a range for different types of liquid, method to prevent the effect of light outside the glass</p>
-
-<h3>Problems Encountered</h3>
-<p>• How to connect another sensor to Raspberry Pi? Using the same ADC or another one?</p>
-<p>• Current experiments show the lighting sensor can differentiate cola and water with same ambient light level. However, ambient light can be a main noise that cannot be ignored in future experiments. How to eliminate the impact of ambient lighting?</p>
-<p>• The measurement of temperature delays, which cannot indicate the real-time temperature of water in the glass.</p>
-
-<h3>Future Plan</h3>
-<p>• Connect the weight sensor to Raspberry Pi and obtain its measurement</p>
-<p>• Appropriately configure all sensors in a container</p>
-<p>• Conduct more experiments to figure out how to differentiate types of several common drinks, such as cola, orange juice, and coffee</p>
-<p>• Solve the temperature measurement delay problem (by adding a light source and blocking the ambient light)</p>
-<p>• Figure out the ways to remind people</p>
-<p>• Complete all codes</p>
-<p>• Test</p>
-<p>• Connect all sensors to OpenChirp (if time allows)</p>
+<p>•	Remind people to drink sufficient water</p>
+<p>•	Remind people to drink healthy water instead of soft drinks</p>
+<p>•	Remind people whether the water is ready to drink with appropriate temperature</p>
 
 <h2>Methodology</h2>
 <h3>Phenomena of Interest</h3>
-<p>• Measure the weight of the glass to get the amount of liquid in the glass</p>
-<p>• Measure the time to calcultate the hourly water consumption</p>
-<p>• Measure the light intensity at the bottom of the glass to get the types of liquid</p>
-<p>• Measure the temperature of the water to make sure it is comfortable to drink</p>
+<p>•	Measure the weight of the cup to get the amount of liquid in the cup</p>
+<p>•	Measure the time to calculate the hourly water consumption</p>
+<p>•	Measure the light intensity at the bottom of the cup to get the types of liquid</p>
+<p>•	Measure the temperature of the water to make sure it is comfortable to drink</p>
+<p>•	Measure the temperature and humidity of environment</p>
 
 <h3>Sensors Used</h3>
-<p>• Weight Sensor: HX711</p>
+<p>•	Weight Sensor: HX711</p>
+<p>   o	Bracket diameter: 10CM</p>
+<p>   o	Working voltage: 5V or 3.3V</p>
+<p>   o	Test weight: 5KG</p>
+<p>   o	Height: 3.5cm (including column)</p>
+<p>   o	AD module: HX711 (24-bit high-precision A/D conversion chip HX711)</p>
+<p>   o	Operating temperature range: -20 degrees - +85 degrees.</p>
+<p>   o	Accuracy after calibration: less than 1g</p>
+
 <p>• Light Sensor: LM393</p>
 <p>• Temperature Sensor: DS18B20</p>
 
