@@ -111,7 +111,7 @@ TONG LEI; SHULIN LIU; JIARONG XIE
 <p>In this meeting, we tried to figure out whether we could use water level sensor to detect the volume of liquid in bottle. We designed an experiment. We added specific volume of water into the cup at a time with a water level sensor, then kept adding. We tried to find the linear relationship between the volume of water and water-level sensor output voltage. But just like the Figure 4 showing below, we did not find a relationship between these two variables. After water depth achieving 2 cm, the voltage kept staying at 1.8. Thus, based on this experiment, we held the view that water level sensor was not a good choice for smart cup.</p>
 
 <p align="center">
-  <img width="500" height="300" src="">
+  <img width="500" height="300" src="https://user-images.githubusercontent.com/55921083/67035248-4ce99980-f0e7-11e9-85cd-d0d6fdd6c440.png">
 </p>
 <p align="center">Figure 4: Water Level Sensor Voltage Output vs. Water Depth</p>
 
