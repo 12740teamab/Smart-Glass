@@ -90,7 +90,7 @@ TONG LEI; SHULIN LIU; JIARONG XIE
 <p>   -	Package: 4 Pin Single Row</p>
 
 <p align="center">
-  <img width="200" height="200" src="">
+  <img width="200" height="200" src="https://user-images.githubusercontent.com/55921083/67035082-ed8b8980-f0e6-11e9-98a0-09fcda402cf2.jpg">
 </p>
 
 <h3>Logic Flow Chart</h3>
