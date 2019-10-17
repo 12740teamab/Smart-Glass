@@ -100,9 +100,9 @@ TONG LEI; SHULIN LIU; JIARONG XIE
 <p>Thanks to the assistance of Professor Mario and TAs, their help and patience make us finish this project successfully.</p>
 
 <h2>Reference</h2>
-<p>1.	https://www.healthline.com/nutrition/how-much-water-should-you-drink-per-day</p>
-<p>2.	https://www.amazon.com/TeOhk-Electronic-Digital-Converter-Breakout/dp/B07SX2MYMX/ref=sr_1_9?keywords=hx711&qid=1571273390&sr=8-9</p>
-<p>3.	http://kookye.com/2016/08/01/smart-home-sensor-kit-for-arduinoraspberry-pi/</p>
-<p>4.	https://robu.in/product/lm393-photosensitive-light-dependent-control-sensor-module/</p>
-<p>5.	https://components101.com/sensors/ds18b20-temperature-sensor</p>
-<p>6.	https://www.mouser.com/datasheet/2/758/DHT11-Technical-Data-Sheet-Translated-Version-1143054.pdf</p>
+<p>[1]https://www.healthline.com/nutrition/how-much-water-should-you-drink-per-day</p>
+<p>[2]https://www.amazon.com/TeOhk-Electronic-Digital-Converter-Breakout/dp/B07SX2MYMX/ref=sr_1_9?keywords=hx711&qid=1571273390&sr=8-9</p>
+<p>[3]http://kookye.com/2016/08/01/smart-home-sensor-kit-for-arduinoraspberry-pi/</p>
+<p>[4]https://robu.in/product/lm393-photosensitive-light-dependent-control-sensor-module/</p>
+<p>[5]https://components101.com/sensors/ds18b20-temperature-sensor</p>
+<p>[6]https://www.mouser.com/datasheet/2/758/DHT11-Technical-Data-Sheet-Translated-Version-1143054.pdf</p>
