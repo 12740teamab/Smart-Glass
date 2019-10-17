@@ -154,7 +154,7 @@ TONG LEI; SHULIN LIU; JIARONG XIE
 <p align="center">Figure 10: Non-Water Consumption from OpenChirp</p>
 
 <p align="center">
-  <img width="700" height="300" src="">
+  <img width="700" height="300" src="https://user-images.githubusercontent.com/55921083/67035747-3bed5800-f0e8-11e9-9c35-e2e34b9012b9.png">
 </p>
 <p align="center">Figure 11: Water Temperature from OpenChirp</p>
 
