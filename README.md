@@ -1,7 +1,7 @@
 # Smart Cup
 TONG LEI; SHULIN LIU; JIARONG XIE
 <p> </p>
-[Vimeo Video](https://vimeo.com/367090283)
+[Vimeo Video](https://vimeo.com/367119269)
 <p></p>
 [Youtube Video](https://www.youtube.com/watch?v=mJ02-7oR6LU)
 <p> </p>
