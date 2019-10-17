@@ -79,7 +79,7 @@ TONG LEI; SHULIN LIU; JIARONG XIE
 <p>   -	Available as To-92, SOP and even as a waterproof sensor</p>
 
 <p align="center">
-  <img width="200" height="200" src="">
+  <img width="200" height="200" src="https://user-images.githubusercontent.com/55921083/67035048-d64c9c00-f0e6-11e9-96ee-a6c0c4c096dd.jpg">
 </p>
 
 <p>•	Temperature and Humidity Sensor: DHT11</p>
