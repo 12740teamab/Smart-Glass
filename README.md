@@ -77,9 +77,10 @@ TONG LEI; SHULIN LIU; JIARONG XIE
 <p>   o	Resolution: 1</p>
 <p>   o	Package: 4 Pin Single Row</p>
 
+![10](https://user-images.githubusercontent.com/55921083/66975744-76fe7580-f06d-11e9-94b2-c13c0e95a4b5.jpg)
 
-<h3>Signal Conditioning and Processing</h3>
-<p>Describe the signal conditioning and processing procedures</p>
+<h3>Logic Flow Chart</h3>
+
 
 <h2>Experienments and Results</h2>
 <p>Describe the experiments you did and present the results; Use tables and plots if possible</p>
