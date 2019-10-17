@@ -132,7 +132,7 @@ TONG LEI; SHULIN LIU; JIARONG XIE
 <p>•	We deigned an experiment to find out the threshold for light sensor to tell the difference between water and non-water liquid: we put the light sensor at the bottom of the cup and a LED light source on top. Then we put water and other soft drink in cup each time, recorded the output value of the light sensor. From the results in Figure 9, it is easy to find the difference among water and other soft drink. We set the threshold as 1.</p>
 
 <p align="center">
-  <img width="300" height="350" src="">
+  <img width="300" height="350" src="https://user-images.githubusercontent.com/55921083/67035519-cda89580-f0e7-11e9-9e37-13b9747b2c9d.png">
 </p>
 <p align="center">Figure 7: Types of Soft Drink</p>
 
