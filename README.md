@@ -54,7 +54,7 @@ TONG LEI; SHULIN LIU; JIARONG XIE
 <p>   -	Accuracy after calibration: less than 1g</p>
 
 <p align="center">
-  <img width="200" height="200" src="">
+  <img width="200" height="200" src="https://user-images.githubusercontent.com/55921083/67034913-94bbf100-f0e6-11e9-942c-fdeac1015fad.jpg">
 </p>
 
 <p>•	Light Sensor: LM393</p>
