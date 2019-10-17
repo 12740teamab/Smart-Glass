@@ -10,7 +10,7 @@ TONG LEI; SHULIN LIU; JIARONG XIE
 <h2>Introduction</h2>
 <p>Smart cup aims to provide people a way to live a healthier life. With a special monitoring system, smart cup can track the water consumption of user and calculate the average water consumption in a specific period. If the average water consumption is below the recommended value, smart glass will gently remind user to drink more water. At the same time, smart cup can show the water temperature to make sure that user drinks the water with appropriate temperature. Besides, smart cup has a special liquid classification system to make sure user is drinking “real” water instead of unhealthy soft drink. Last, smart cup can also detect and show the environment temperature and humidity.<p>
 
-![IMG_1065](https://user-images.githubusercontent.com/55921083/66975041-284fdc00-f06b-11e9-81c7-36b61a8c7980.jpg)
+<img scr="https://user-images.githubusercontent.com/55921083/67026752-6cc49180-f0d6-11e9-8c21-344d242d6057.jpg" width="400" height="790">
 
 <h3>Motivation</h3>
 <p>•	Health authorities commonly recommend eight 8-ounce glasses per day<p>
