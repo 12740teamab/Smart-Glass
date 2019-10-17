@@ -1,12 +1,17 @@
-# Smart Glass
+# Smart Cup
 TONG LEI; SHULIN LIU; JIARONG XIE
 <p> </p>
-
+[Video](http://)
+<p> </p>
+<p><a href="http://12740teamab.github.io/Smart-Glass/Final Report.pdf" target="_blank">Final Report</a></p>
+<p> </p>
 <p><a href="http://12740teamab.github.io/Smart-Glass/Progress Report.pdf" target="_blank">Progress Report</a></p>
 
 <h2>Introduction</h2>
-<p>Smart glass aims to provide people a healthier lifestyle. With a special monitoring system, smart glass can track the water consumption of the user and calculate the average water consumption in a specific period. If the average water consumption is below the recommended value, smart glass will gently remind you to drink more water. At the same time, smart glass can show the water temperature to make sure you drink the water with appropriate temperature. Besides, smart glass has a special liquid classification system to make sure you are drinking “real” water instead of unhealthy soft drink.<p>
-  
+<p>Smart cup aims to provide people a way to live a healthier life. With a special monitoring system, smart cup can track the water consumption of user and calculate the average water consumption in a specific period. If the average water consumption is below the recommended value, smart glass will gently remind user to drink more water. At the same time, smart cup can show the water temperature to make sure that user drinks the water with appropriate temperature. Besides, smart cup has a special liquid classification system to make sure user is drinking “real” water instead of unhealthy soft drink. Last, smart cup can also detect and show the environment temperature and humidity.<p>
+
+
+
 <h3>Motivation</h3>
 <p>• Health authorities commonly recommend eight 8-ounce glasses<p>
 <p>• A typical adult naturally loses about 2-3 liters of water a day<p>
