@@ -120,7 +120,7 @@ TONG LEI; SHULIN LIU; JIARONG XIE
 <p>•	Weight sensor calibration: at first, the output of the weight sensor was just a huge number which would decrease when we put more weight on it. Thus, we used a set of standard weights to do calibration on it, transferring its unit to ‘g’. The standard weights include 4 standard weights of 0.5 lb, 10 standard weights of 10 g. Different combinations of them were used to obtain as many as data points. For each weight, relatively stable sensor reading out was collected for about half a minute. The average of these data was used as the reading for calculation. R was used for processing the data. A linear model between the sensor reading and the actual weigh was assumed and regressed. The result is shown in Figure 6.  The slope of the line is -0.00283, the intercept is 23460. (weight = -0.00283*output + 23460)</p>
 
 <p align="center">
-  <img width="300" height="350" src="">
+  <img width="300" height="350" src="https://user-images.githubusercontent.com/55921083/67035312-73a7d000-f0e7-11e9-8c94-319ca4cefefa.png">
 </p>
 <p align="center">Figure 5: Weight Sensor Calibration</p>
 
