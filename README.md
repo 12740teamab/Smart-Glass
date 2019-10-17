@@ -4,6 +4,7 @@ TONG LEI; SHULIN LIU; JIARONG XIE
 [Vimeo Video](https://vimeo.com/367119269)
 <p></p>
 [Youtube Video](https://www.youtube.com/watch?v=mJ02-7oR6LU)
+<p><a href="https://www.youtube.com/watch?v=mJ02-7oR6LU" target="_blank">Youtube Video</a></p>
 <p> </p>
 <p><a href="http://12740teamab.github.io/Smart-Glass/Progress Report.pdf" target="_blank">Progress Report</a></p>
 <p> </p>
