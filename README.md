@@ -68,6 +68,8 @@ TONG LEI; SHULIN LIU; JIARONG XIE
 <p>   o	Conversion time: 750ms at 12-bit </p>
 <p>   o	Available as To-92, SOP and even as a waterproof sensor</p>
 
+![9](https://user-images.githubusercontent.com/55921083/66975691-43235000-f06d-11e9-9617-8b282db2ef43.jpg)
+
 <p>•	Temperature and Humidity Sensor: DHT11</p>
 <p>   o	Measurement Range: 20-90% RH, 0-50°C</p>
 <p>   o	Humidity Accuracy: +/- 5% RH</p>
