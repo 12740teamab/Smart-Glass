@@ -159,7 +159,7 @@ TONG LEI; SHULIN LIU; JIARONG XIE
 <p align="center">Figure 11: Water Temperature from OpenChirp</p>
 
 <p align="center">
-  <img width="700" height="300" src="">
+  <img width="700" height="300" src="https://user-images.githubusercontent.com/55921083/67035778-51628200-f0e8-11e9-8ce1-873a32773f40.png">
 </p>
 <p align="center">Figure 12: Results on Terminal</p>
 
