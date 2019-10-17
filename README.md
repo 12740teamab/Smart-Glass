@@ -149,7 +149,7 @@ TONG LEI; SHULIN LIU; JIARONG XIE
 <p>•	Wrote a python code in Raspberry Pi, which was used to control the smart cup and upload the water consumption record to OpenChirp.</p>
 
 <p align="center">
-  <img width="700" height="300" src="">
+  <img width="700" height="300" src="https://user-images.githubusercontent.com/55921083/67035714-2841f180-f0e8-11e9-8723-4de0991c5e5a.png">
 </p>
 <p align="center">Figure 10: Non-Water Consumption from OpenChirp</p>
 
