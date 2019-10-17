@@ -1,5 +1,8 @@
 # Smart Glass
 TONG LEI; SHULIN LIU; JIARONG XIE
+<p> </p>
+
+<p><a href="http://12740teamab.github.io/Smart-Glass/Progress Report.pdf" target="_blank">Progress Report</a></p>
 
 <h2>Introduction</h2>
 <p>Smart glass aims to provide people a healthier lifestyle. With a special monitoring system, smart glass can track the water consumption of the user and calculate the average water consumption in a specific period. If the average water consumption is below the recommended value, smart glass will gently remind you to drink more water. At the same time, smart glass can show the water temperature to make sure you drink the water with appropriate temperature. Besides, smart glass has a special liquid classification system to make sure you are drinking “real” water instead of unhealthy soft drink.<p>
@@ -63,4 +66,4 @@ TONG LEI; SHULIN LIU; JIARONG XIE
 <h2>Discussion</h2>
 <p>Discuss the insights from the project</p>
 
-<p><a href="http://12740teamab.github.io/Smart-Glass/syllabus.pdf" target="_blank">Report</a></p>
+
