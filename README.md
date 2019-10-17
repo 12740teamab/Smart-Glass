@@ -83,7 +83,25 @@ TONG LEI; SHULIN LIU; JIARONG XIE
 <img width="891" alt="Screen Shot 2019-10-16 at 10 31 55 PM" src="https://user-images.githubusercontent.com/55921083/66975782-95fd0780-f06d-11e9-8596-2ca518a9333c.png">
 
 <h2>Experienments and Results</h2>
-<p>Describe the experiments you did and present the results; Use tables and plots if possible</p>
+<h4>First Meeting</h4>
+<p>•	Make sure the types of sensors that we need, including a pressure sensor (HX711, ordered through Amazon), a temperature sensor (in box), a light sensor (in box)</p>
+<p>•	Make a prototype “smart-cup” with only temperature sensor and light sensor (pressure sensor is on the way)</p>
+<p>•	Connect multiple sensors to Raspberry Pi, and organize the python code to show the output of sensors correctly</p>
+<p>•	With test, we make sure that the light sensor can detect the change of light density while changing the liquid above it from coffee into pure water. We also confirm that the temperature can detect the temperature of liquid in glass</p>
+<p>•	Implement the design details of “smart-cup”, including the placement of sensors, data that we need to set up a range for different types of liquid, method to prevent the effect of light outside the glass</p>
+
+<h4>Second Meeting</h4>
+<p>In this meeting, we tried to figure out whether we could use water level sensor to detect the volume of liquid in bottle. We designed an experiment. We added specific volume of water into the cup at a time with a water level sensor, then kept adding. We tried to find the linear relationship between the volume of water and water-level sensor output voltage. But just like the Figure 4 showing below, we did not find a relationship between these two variables. After water depth achieving 2 cm, the voltage kept staying at 1.8. Thus, based on this experiment, we held the view that water level sensor was not a good choice for smart cup.</p>
+
+<h4>Third Meeting</h4>
+<p>•	We made a model of the smart cup and placed all sensors in it.</p>
+<p>•	Weight sensor calibration: at first, the output of the weight sensor was just a huge number which would decrease when we put more weight on it. Thus, we used a set of standard weights to do calibration on it, transferring its unit to ‘g’. The standard weights include 4 standard weights of 0.5 lb, 10 standard weights of 10 g. Different combinations of them were used to obtain as many as data points. For each weight, relatively stable sensor reading out was collected for about half a minute. The average of these data was used as the reading for calculation. R was used for processing the data. A linear model between the sensor reading and the actual weigh was assumed and regressed. The result is shown in Figure 6.  The slope of the line is -0.00283, the intercept is 23460. (weight = -0.00283*output + 23460)</p>
+<p>•	We deigned an experiment to find out the threshold for light sensor to tell the difference between water and non-water liquid: we put the light sensor at the bottom of the cup and a LED light source on top. Then we put water and other soft drink in cup each time, recorded the output value of the light sensor. From the results in Figure 9, it is easy to find the difference among water and other soft drink. We set the threshold as 1.</p>
+<p>•	Wrote a python code in Raspberry Pi, which was used to control the smart cup and upload the water consumption record to OpenChirp.</p>
+
+<h4>Final Experiment</h4>
+<p>After finishing all parts of this smart cup, we conducted an experiment on it. At the beginning, there was 195 ml water in the cup. Then we drank 135ml water. After that, we drank the rest of the water and poured 300ml unclear soft drink in it. Next, we drank 200 ml soft drink. Then we drank the rest of them couple minutes later. The timeseries results from OpenChirp exactly match our experiment.</p>
+
 
 <h2>Discussion</h2>
 <p>This project provides us an opportunity to put the knowledge that we learn from class into practice:</p>
