@@ -10,7 +10,10 @@ TONG LEI; SHULIN LIU; JIARONG XIE
 <h2>Introduction</h2>
 <p>Smart cup aims to provide people a way to live a healthier life. With a special monitoring system, smart cup can track the water consumption of user and calculate the average water consumption in a specific period. If the average water consumption is below the recommended value, smart glass will gently remind user to drink more water. At the same time, smart cup can show the water temperature to make sure that user drinks the water with appropriate temperature. Besides, smart cup has a special liquid classification system to make sure user is drinking “real” water instead of unhealthy soft drink. Last, smart cup can also detect and show the environment temperature and humidity.<p>
 
-<img scr="https://user-images.githubusercontent.com/55921083/67026752-6cc49180-f0d6-11e9-8c21-344d242d6057.jpg" width="400" height="790">
+<p align="center">
+  <img width="310" height="200" src="">
+</p>
+<p align="center">Figure 1: Smart Cup</p>
 
 <h3>Motivation</h3>
 <p>•	Health authorities commonly recommend eight 8-ounce glasses per day<p>
@@ -22,7 +25,10 @@ TONG LEI; SHULIN LIU; JIARONG XIE
 <p>-	Helps maintain blood pressure</p>
 <p>-	Prevents kidney damage</p>
 
-<img width="310" alt="WechatIMG62" src="https://user-images.githubusercontent.com/55921083/66975160-9eecd980-f06b-11e9-8691-c6ac8e0c60d3.png">
+<p align="center">
+  <img width="330" height="200" src="https://user-images.githubusercontent.com/55921083/66975160-9eecd980-f06b-11e9-8691-c6ac8e0c60d3.png">
+</p>
+<p align="center">Figure 2: Benefits of Drinking Water</p>
 
 <h3>Goals</h3>
 <p>•	Remind people to drink sufficient water</p>
@@ -47,7 +53,9 @@ TONG LEI; SHULIN LIU; JIARONG XIE
 <p>   -	Operating temperature range: -20 degrees - +85 degrees</p>
 <p>   -	Accuracy after calibration: less than 1g</p>
 
-![51UjB-VAY3L _SL1000_](https://user-images.githubusercontent.com/55921083/66975382-597cdc00-f06c-11e9-916e-19afb1867ab5.jpg)
+<p align="center">
+  <img width="200" height="200" src="">
+</p>
 
 <p>•	Light Sensor: LM393</p>
 <p>   -	Input Voltage: 3.3V to 5V</p>
@@ -57,7 +65,9 @@ TONG LEI; SHULIN LIU; JIARONG XIE
 <p>   -	LDR module 4 PIN</p>
 <p>   -	Able to detect ambient brightness and light intensity Adjustable sensitivity</p>
 
-<img width="30" alt="14" scr="https://user-images.githubusercontent.com/55921083/66975509-b24c7480-f06c-11e9-934f-d07274db6b38.jpg">
+<p align="center">
+  <img width="200" height="200" src="">
+</p>
 
 <p>•	Temperature Sensor: DS18B20</p>
 <p>   -	Operating voltage: 3V to 5V</p>
@@ -68,7 +78,9 @@ TONG LEI; SHULIN LIU; JIARONG XIE
 <p>   -	Conversion time: 750ms at 12-bit </p>
 <p>   -	Available as To-92, SOP and even as a waterproof sensor</p>
 
-<img width="30" alt="9" scr="https://user-images.githubusercontent.com/55921083/66975691-43235000-f06d-11e9-9617-8b282db2ef43.jpg">
+<p align="center">
+  <img width="200" height="200" src="">
+</p>
 
 <p>•	Temperature and Humidity Sensor: DHT11</p>
 <p>   -	Measurement Range: 20-90% RH, 0-50°C</p>
@@ -77,10 +89,15 @@ TONG LEI; SHULIN LIU; JIARONG XIE
 <p>   -	Resolution: 1</p>
 <p>   -	Package: 4 Pin Single Row</p>
 
-<img width="30" alt="10" scr="https://user-images.githubusercontent.com/55921083/66975744-76fe7580-f06d-11e9-94b2-c13c0e95a4b5.jpg">
+<p align="center">
+  <img width="200" height="200" src="">
+</p>
 
 <h3>Logic Flow Chart</h3>
-<img width="891" alt="Screen Shot 2019-10-16 at 10 31 55 PM" src="https://user-images.githubusercontent.com/55921083/66975782-95fd0780-f06d-11e9-8596-2ca518a9333c.png">
+<p align="center">
+  <img width="891" alt="Screen Shot 2019-10-16 at 10 31 55 PM" src="https://user-images.githubusercontent.com/55921083/66975782-95fd0780-f06d-11e9-8596-2ca518a9333c.png">
+</p>
+<p align="center">Figure 3: Logic Flow Chart</p>
 
 <h2>Experienments and Results</h2>
 <h4>First Meeting</h4>
@@ -93,15 +110,66 @@ TONG LEI; SHULIN LIU; JIARONG XIE
 <h4>Second Meeting</h4>
 <p>In this meeting, we tried to figure out whether we could use water level sensor to detect the volume of liquid in bottle. We designed an experiment. We added specific volume of water into the cup at a time with a water level sensor, then kept adding. We tried to find the linear relationship between the volume of water and water-level sensor output voltage. But just like the Figure 4 showing below, we did not find a relationship between these two variables. After water depth achieving 2 cm, the voltage kept staying at 1.8. Thus, based on this experiment, we held the view that water level sensor was not a good choice for smart cup.</p>
 
+<p align="center">
+  <img width="500" height="300" src="">
+</p>
+<p align="center">Figure 4: Water Level Sensor Voltage Output vs. Water Depth</p>
+
 <h4>Third Meeting</h4>
 <p>•	We made a model of the smart cup and placed all sensors in it.</p>
 <p>•	Weight sensor calibration: at first, the output of the weight sensor was just a huge number which would decrease when we put more weight on it. Thus, we used a set of standard weights to do calibration on it, transferring its unit to ‘g’. The standard weights include 4 standard weights of 0.5 lb, 10 standard weights of 10 g. Different combinations of them were used to obtain as many as data points. For each weight, relatively stable sensor reading out was collected for about half a minute. The average of these data was used as the reading for calculation. R was used for processing the data. A linear model between the sensor reading and the actual weigh was assumed and regressed. The result is shown in Figure 6.  The slope of the line is -0.00283, the intercept is 23460. (weight = -0.00283*output + 23460)</p>
+
+<p align="center">
+  <img width="300" height="350" src="">
+</p>
+<p align="center">Figure 5: Weight Sensor Calibration</p>
+
+<p align="center">
+  <img width="500" height="300" src="">
+</p>
+<p align="center">Figure 6: Weight Sensor Output Value vs. Actual Weight</p>
+
 <p>•	We deigned an experiment to find out the threshold for light sensor to tell the difference between water and non-water liquid: we put the light sensor at the bottom of the cup and a LED light source on top. Then we put water and other soft drink in cup each time, recorded the output value of the light sensor. From the results in Figure 9, it is easy to find the difference among water and other soft drink. We set the threshold as 1.</p>
+
+<p align="center">
+  <img width="300" height="350" src="">
+</p>
+<p align="center">Figure 7: Types of Soft Drink</p>
+
+<p align="center">
+  <img width="300" height="350" src="">
+</p>
+<p align="center">Figure 8: Running a Drink Type Test</p>
+
+<p align="center">
+  <img width="500" height="300" src="">
+</p>
+<p align="center">Figure 9: Light Sensor Output vs. Different Types of Liquid</p>
+
 <p>•	Wrote a python code in Raspberry Pi, which was used to control the smart cup and upload the water consumption record to OpenChirp.</p>
+
+<p align="center">
+  <img width="700" height="300" src="">
+</p>
+<p align="center">Figure 10: Non-Water Consumption from OpenChirp</p>
+
+<p align="center">
+  <img width="700" height="300" src="">
+</p>
+<p align="center">Figure 11: Water Temperature from OpenChirp</p>
+
+<p align="center">
+  <img width="700" height="300" src="">
+</p>
+<p align="center">Figure 12: Results on Terminal</p>
 
 <h4>Final Experiment</h4>
 <p>After finishing all parts of this smart cup, we conducted an experiment on it. At the beginning, there was 195 ml water in the cup. Then we drank 135ml water. After that, we drank the rest of the water and poured 300ml unclear soft drink in it. Next, we drank 200 ml soft drink. Then we drank the rest of them couple minutes later. The timeseries results from OpenChirp exactly match our experiment.</p>
 
+<p align="center">
+  <img width="700" height="600" src="">
+</p>
+<p align="center">Figure 13: Timeseries Results from OpenChirp</p>
 
 <h2>Discussion</h2>
 <p>This project provides us an opportunity to put the knowledge that we learn from class into practice:</p>
