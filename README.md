@@ -142,7 +142,7 @@ TONG LEI; SHULIN LIU; JIARONG XIE
 <p align="center">Figure 8: Running a Drink Type Test</p>
 
 <p align="center">
-  <img width="500" height="300" src="">
+  <img width="500" height="300" src="https://user-images.githubusercontent.com/55921083/67035619-0183bb00-f0e8-11e9-8bf4-bb7997ecd87e.png">
 </p>
 <p align="center">Figure 9: Light Sensor Output vs. Different Types of Liquid</p>
 
