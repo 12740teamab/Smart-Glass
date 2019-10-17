@@ -5,8 +5,6 @@ TONG LEI; SHULIN LIU; JIARONG XIE
 <p></p>
 [Youtube Video](https://www.youtube.com/watch?v=mJ02-7oR6LU)
 <p> </p>
-<p><a href="http://12740teamab.github.io/Smart-Glass/Final Report.pdf" target="_blank">Final Report</a></p>
-<p> </p>
 <p><a href="http://12740teamab.github.io/Smart-Glass/Progress Report.pdf" target="_blank">Progress Report</a></p>
 
 <h2>Introduction</h2>
