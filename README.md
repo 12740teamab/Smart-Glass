@@ -80,12 +80,29 @@ TONG LEI; SHULIN LIU; JIARONG XIE
 ![10](https://user-images.githubusercontent.com/55921083/66975744-76fe7580-f06d-11e9-94b2-c13c0e95a4b5.jpg)
 
 <h3>Logic Flow Chart</h3>
-
+<img width="891" alt="Screen Shot 2019-10-16 at 10 31 55 PM" src="https://user-images.githubusercontent.com/55921083/66975782-95fd0780-f06d-11e9-8596-2ca518a9333c.png">
 
 <h2>Experienments and Results</h2>
 <p>Describe the experiments you did and present the results; Use tables and plots if possible</p>
 
 <h2>Discussion</h2>
-<p>Discuss the insights from the project</p>
+<p>This project provides us an opportunity to put the knowledge that we learn from class into practice:</p>
+<p>•	In this project, we use four different sensors: light sensor, weight sensor, temperature sensor and temperature & humidity sensor. During this project, we learn how to connect multiple sensors to the Raspberry Pi. Based on what we learn from course, we use different GPIO interfaces of Pi. Then we use python code to read data from sensors based on the number of those interfaces.</p>
 
+<p>•	We use OpenChirp to upload and visualize the water consumption record. It is the first time that we use IOT. We hold the view that IOT makes the transition of data between different devices much more convenient. The embed visualization function also provides us an efficient way to find the pattern of data.</p>
 
+<p>•	With collecting data from sensors, calibration and sending commands to the actuator, we become familiar with the complete circle of using sensors. In a word, we know how to use sensors to design a product.</p>
+
+<p>Although we spent a plenty of time on this smart cup, it is still not perfect. We can make a better version if we have more time and higher budget. For example, we only use the light sensor to tell if the liquid is water or not for now. But if we have enough sensors, we can buy more sensors and collect more information about the liquid, which could help us make better prediction about the type of the liquid.</p>
+
+<p>This project also improves our ability to find problems and solve them. During this project, we met different kinds of problems. For example, we found the output of weight sensor was not stable with unpattern fluctuation one day. After checking, we found that we used the same GPIO interface for two sensors, which may arise some signal confliction. Thus, we used another interface to fix it.</p>
+
+<p>Thanks to the assistance of Professor Mario and TAs, their help and patience make us finish this project successfully.</p>
+
+<h2>Reference</h2>
+<p>1.	https://www.healthline.com/nutrition/how-much-water-should-you-drink-per-day</p>
+<p>2.	https://www.amazon.com/TeOhk-Electronic-Digital-Converter-Breakout/dp/B07SX2MYMX/ref=sr_1_9?keywords=hx711&qid=1571273390&sr=8-9</p>
+<p>3.	http://kookye.com/2016/08/01/smart-home-sensor-kit-for-arduinoraspberry-pi/</p>
+<p>4.	https://robu.in/product/lm393-photosensitive-light-dependent-control-sensor-module/</p>
+<p>5.	https://components101.com/sensors/ds18b20-temperature-sensor</p>
+<p>6.	https://www.mouser.com/datasheet/2/758/DHT11-Technical-Data-Sheet-Translated-Version-1143054.pdf</p>
