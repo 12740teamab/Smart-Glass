@@ -57,7 +57,7 @@ TONG LEI; SHULIN LIU; JIARONG XIE
 <p>   -	LDR module 4 PIN</p>
 <p>   -	Able to detect ambient brightness and light intensity Adjustable sensitivity</p>
 
-![14](https://user-images.githubusercontent.com/55921083/66975509-b24c7480-f06c-11e9-934f-d07274db6b38.jpg)
+<img width="30" alt="14" scr="https://user-images.githubusercontent.com/55921083/66975509-b24c7480-f06c-11e9-934f-d07274db6b38.jpg">
 
 <p>•	Temperature Sensor: DS18B20</p>
 <p>   -	Operating voltage: 3V to 5V</p>
@@ -68,7 +68,7 @@ TONG LEI; SHULIN LIU; JIARONG XIE
 <p>   -	Conversion time: 750ms at 12-bit </p>
 <p>   -	Available as To-92, SOP and even as a waterproof sensor</p>
 
-![9](https://user-images.githubusercontent.com/55921083/66975691-43235000-f06d-11e9-9617-8b282db2ef43.jpg)
+<img width="30" alt="9" scr="https://user-images.githubusercontent.com/55921083/66975691-43235000-f06d-11e9-9617-8b282db2ef43.jpg">
 
 <p>•	Temperature and Humidity Sensor: DHT11</p>
 <p>   -	Measurement Range: 20-90% RH, 0-50°C</p>
@@ -77,7 +77,7 @@ TONG LEI; SHULIN LIU; JIARONG XIE
 <p>   -	Resolution: 1</p>
 <p>   -	Package: 4 Pin Single Row</p>
 
-![10](https://user-images.githubusercontent.com/55921083/66975744-76fe7580-f06d-11e9-94b2-c13c0e95a4b5.jpg)
+<img width="30" alt="10" scr="https://user-images.githubusercontent.com/55921083/66975744-76fe7580-f06d-11e9-94b2-c13c0e95a4b5.jpg">
 
 <h3>Logic Flow Chart</h3>
 <img width="891" alt="Screen Shot 2019-10-16 at 10 31 55 PM" src="https://user-images.githubusercontent.com/55921083/66975782-95fd0780-f06d-11e9-8596-2ca518a9333c.png">
