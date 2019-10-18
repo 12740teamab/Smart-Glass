@@ -20,14 +20,16 @@
 <p align="center">Figure 1: Smart Cup</p>
 
 <h3>Motivation</h3>
-<p>•	Health authorities commonly recommend eight 8-ounce glasses per day<p>
-<p>•	A typical adult naturally loses about 2-3 liters of water per day<p>
-<p>•	Benefits of drinking water:</p>
-<p>-	Lubricates the joints</p>
-<p>-	Forms saliva and mucus</p>
-<p>-	Regulates body temperature</p>
-<p>-	Helps maintain blood pressure</p>
-<p>-	Prevents kidney damage</p>
+
+
+- Health authorities commonly recommend eight 8-ounce glasses per day
+- A typical adult naturally loses about 2-3 liters of water per day
+- Benefits of drinking water:
+   - Lubricates the joints
+   - Forms saliva and mucus
+   - Regulates body temperature
+   - Helps maintain blood pressure
+   - Prevents kidney damage
 
 <p align="center">
   <img width="330" height="200" src="https://user-images.githubusercontent.com/55921083/66975160-9eecd980-f06b-11e9-8691-c6ac8e0c60d3.png">
@@ -35,40 +37,42 @@
 <p align="center">Figure 2: Benefits of Drinking Sufficient Water</p>
 
 <h3>Goals</h3>
-<p>•	Remind people to drink sufficient water</p>
-<p>•	Remind people to drink healthy water instead of soft drinks</p>
-<p>•	Remind people whether the water is ready to drink with appropriate temperature</p>
-<p>•	Remind people of the weather condition and drink regularly when it is dry</p>
+
+- Remind people to drink sufficient water
+- Remind people to drink healthy water instead of soft drinks
+- Remind people whether the water is ready to drink with appropriate temperature
+- Remind people of the weather condition and drink regularly when it is dry
 
 <h2>Methodology</h2>
 <h3>Phenomena of Interest</h3>
-<p>•	Measure the total weight of the cup to get the amount of liquid in the cup</p>
-<p>•	Measure the time to calculate the hourly water consumption</p>
-<p>•	Measure the light intensity at the bottom of the cup to get the types of liquid</p>
-<p>•	Measure the temperature of the water to make sure it is comfortable to drink</p>
-<p>•	Measure the temperature and humidity of environment</p>
+
+- Measure the total weight of the cup to get the amount of liquid in the cup
+- Measure the time to calculate the hourly water consumption
+- Measure the light intensity at the bottom of the cup to get the types of liquid
+- Measure the temperature of the water to make sure it is comfortable to drink
+- Measure the temperature and humidity of environment
 
 <h3>Sensors Used</h3>
-<p><b>•	Weight Sensor: HX711</b></p>
-<p>   -	Bracket diameter: 10CM</p>
-<p>   -	Working voltage: 5V or 3.3V</p>
-<p>   -	Test weight: 5KG</p>
-<p>   -	Height: 3.5cm (including column)</p>
-<p>   -	AD module: HX711 (24-bit high-precision A/D conversion chip HX711)</p>
-<p>   -	Operating temperature range: -20 degrees - +85 degrees</p>
-<p>   -	Accuracy after calibration: less than 1g</p>
+
+- Weight Sensor: HX711
+   -	Bracket diameter: 10CM
+   -	Working voltage: 5V or 3.3V
+   -	Test weight: 5KG
+   -	Height: 3.5cm (including column)
+   -	AD module: HX711 (24-bit high-precision A/D conversion chip HX711)
+   -	Operating temperature range: -20 degrees - +85 degrees
+   -	Accuracy after calibration: less than 1g
 
 <p align="center">
   <img width="200" height="200" src="https://user-images.githubusercontent.com/55921083/67034913-94bbf100-f0e6-11e9-942c-fdeac1015fad.jpg">
 </p>
 
-<p><b>•	Light Sensor: LM393</b></p>
-<p>   -	Measure the light level at the bottom</p>
-<p>   -	Input Voltage: 3.3V to 5V</p>
-<p>   -	Dimensions: 15mm x 33mm x 8mm</p>
-<p>   -	Signal output indicator light</p>
-<p>   -	LDR module 4 PIN</p>
-<p>   -	Able to detect ambient brightness and light intensity Adjustable sensitivity</p>
+- Light Sensor: LM393
+   -	Measure the light level at the bottom
+   -	Input Voltage: 3.3V to 5V
+   -	Signal output indicator light
+   -	LDR module 4 PIN
+   -	Able to detect ambient brightness and light intensity Adjustable sensitivity
 
 <p align="center">
   <img width="200" height="200" src="https://user-images.githubusercontent.com/55921083/67034982-bb7a2780-f0e6-11e9-83b4-b97fcce7d407.jpg">
